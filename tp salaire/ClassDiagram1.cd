@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Font Name="Segoe UI" Size="9" />
+  <Class Name="tp_salaire.Bulletin" Collapsed="true">
+    <Position X="3.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Bulletin.cs</FileName>
+      <HashCode>AMAAAQAAAAQAAAEAgBAIAAARAAAAAAACAAgEAAAAoAg=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tp_salaire.Ecran">
+    <Position X="7.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ecran.cs</FileName>
+      <HashCode>BAAAAAAgAAAAAAAAAgAAIAAAAEAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tp_salaire.entreprise" Collapsed="true">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>entreprise.cs</FileName>
+      <HashCode>AAAAIABBAAAAAABAAAAAABAAAAABAAIAAAAAAAAACAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tp_salaire.Parametre" Collapsed="true">
+    <Position X="3.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Parametre.cs</FileName>
+      <HashCode>AACBAAAAAAAAwAACAAAAAAAAQCACAAAAAAEAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tp_salaire.PersisteEntreprise">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>PersisteEntreprise.cs</FileName>
+      <HashCode>AAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tp_salaire.Appsalaire">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>Program.cs</FileName>
+      <HashCode>AAAAAgAAAAAAAAAAAAAAAAAAAAAAAAACAAAABgAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tp_salaire.ReleveHebdo" Collapsed="true">
+    <Position X="3.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>ReleveHebdo.cs</FileName>
+      <HashCode>AAAQAAAAAAAAAAEAAQAAAAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="tp_salaire.Salarie" Collapsed="true">
+    <Position X="5.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <FileName>salarié.cs</FileName>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAICAKAAQAAAAAAAAICgAAAQA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+</ClassDiagram>
